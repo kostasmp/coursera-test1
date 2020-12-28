@@ -39,13 +39,13 @@ h3{
 }
 
 .left h3{
-	background: #eebe10;
+	background: #ff9966;
 }
 .middle h3{
-	background: #17db17;
+	background: #ff00ff;
 }
 .right h3{
-	background: #0cd4e8;
+	background: #6666ff;
 }
 
 @media (min-width: 992px){
